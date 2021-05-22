@@ -1,5 +1,5 @@
 ---
-title: Home
+title: LORENTINO BARBERÍA
 sections:
   - type: hero_section
     title: Achieve your Goals!
