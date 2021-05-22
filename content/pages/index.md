@@ -2,7 +2,7 @@
 title: LORENTINO BARBERÍA
 sections:
   - type: hero_section
-    title: Achieve your Goals!
+    title: LORENTINO BARBERÍA
     subtitle: Celebrating daily wins with YourGoal.
     actions:
       - label: Try for free
